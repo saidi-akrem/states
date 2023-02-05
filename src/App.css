@@ -1,11 +1,21 @@
 .App {
   text-align: center;
+  background-color:cadetblue;
+  margin-left:350px;
+  margin-right: 400px;
+  border: 20px black;
+  border-radius: 50px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+h1, h2 ,h3 {
+  font-style: bold;
+  color: black;
+  text-align: center;
+};
+
+
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
